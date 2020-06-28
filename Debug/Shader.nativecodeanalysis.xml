@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\Projects\Application1\</FILEPATH>
+      <FILENAME>Shader.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Typ wyliczeniowy „ShaderType” nie ma zakresu. Preferowany jest element „enum class” zamiast „enum” (enum.3).</DESCRIPTION>
+    <FUNCTION>Shader::{ctor}</FUNCTION>
+    <DECORATED>??0Shader@@QAE@PBDW4ShaderType@@_N@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

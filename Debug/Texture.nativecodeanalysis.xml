@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>3866</LINE>
+      <COLUMN>57</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Wyłuskanie wskaźnika NULL „y”. </DESCRIPTION>
+    <FUNCTION>load_jpeg_image</FUNCTION>
+    <DECORATED>?load_jpeg_image@@YAPAEPAUstbi__jpeg@@PAH11H@Z</DECORATED>
+    <FUNCLINE>3721</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3723</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3723</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3723</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3724</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3727</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3730</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3733</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3735</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3737</LINE>
+        <COLUMN>33</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3740</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3744</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3745</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3745</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3746</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3747</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3749</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3751</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3751</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3774</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3775</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3778</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3778</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3779</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3780</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3780</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3794</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3837</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3847</LINE>
+        <COLUMN>40</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3857</LINE>
+        <COLUMN>40</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3864</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>deklaracja</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „y” może mieć wartość NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3865</LINE>
+        <COLUMN>21</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Wejdź do tego rozgałęzienia (przyjmowane jest: „n==1”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3866</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3866</LINE>
+        <COLUMN>30</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Wejdź do tej pętli (przyjmowane jest: „i&lt;z-&gt;s-&gt;img_x”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>3866</LINE>
+        <COLUMN>57</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>użycie</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „y” jest wyłuskiwany, ale nadal może mieć wartość NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>6712</LINE>
+      <COLUMN>35</COLUMN>
+    </SFA>
+    <DEFECTCODE>6308</DEFECTCODE>
+    <DESCRIPTION>Funkcja „realloc” może zwracać wskaźnik null: przypisanie wskaźnika null do elementu „*delays”, który jest przekazywany jako argument do funkcji „realloc”, spowoduje przeciek oryginalnego bloku pamięci.</DESCRIPTION>
+    <FUNCTION>stbi__load_gif_main</FUNCTION>
+    <DECORATED>?stbi__load_gif_main@@YAPAXPAUstbi__context@@PAPAHPAH222H@Z</DECORATED>
+    <FUNCLINE>6677</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>6677</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Liczba bajtów stosu używana przez funkcję („34956”) przekracza wartość /analyze:stacksize „16384”. Rozważ przeniesienie części danych na stertę.</DESCRIPTION>
+    <FUNCTION>stbi__load_gif_main</FUNCTION>
+    <DECORATED>?stbi__load_gif_main@@YAPAXPAUstbi__context@@PAPAHPAH222H@Z</DECORATED>
+    <FUNCLINE>6677</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>6726</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>28182</DEFECTCODE>
+    <DESCRIPTION>Wyłuskanie wskaźnika NULL. Element „*delays” zawiera tę samą wartość NULL, która była zapisana w elemencie „realloc()`6712”. </DESCRIPTION>
+    <FUNCTION>stbi__load_gif_main</FUNCTION>
+    <DECORATED>?stbi__load_gif_main@@YAPAXPAUstbi__context@@PAPAHPAH222H@Z</DECORATED>
+    <FUNCLINE>6677</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6679</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6680</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6681</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6682</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6683</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6684</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6685</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6686</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6687</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6688</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6692</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6693</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6695</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6696</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6697</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6698</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6699</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6701</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6715</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6716</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6717</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6720</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6721</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6725</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6726</LINE>
+        <COLUMN>38</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6729</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6692</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6693</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6695</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6696</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6697</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6698</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6699</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6701</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6702</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6703</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6710</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6711</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6712</LINE>
+        <COLUMN>26</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>deklaracja</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „*delays” może mieć wartość NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6720</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6721</LINE>
+        <COLUMN>23</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Wejdź do tego rozgałęzienia (przyjmowane jest: „layers&gt;=2”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6722</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6725</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>rozgałęzienie</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Wejdź do tego rozgałęzienia (przyjmowane jest: „delays”)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+        <FILENAME>stb_image.h</FILENAME>
+        <LINE>6726</LINE>
+        <COLUMN>38</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>użycie</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Element „*delays” jest wyłuskiwany, ale nadal może mieć wartość NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Lidia\Documents\Visual Studio 2019\OpenGL\include\STB\</FILEPATH>
+      <FILENAME>stb_image.h</FILENAME>
+      <LINE>6747</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Liczba bajtów stosu używana przez funkcję („34932”) przekracza wartość /analyze:stacksize „16384”. Rozważ przeniesienie części danych na stertę.</DESCRIPTION>
+    <FUNCTION>stbi__gif_load</FUNCTION>
+    <DECORATED>?stbi__gif_load@@YAPAXPAUstbi__context@@PAH11HPAUstbi__result_info@@@Z</DECORATED>
+    <FUNCLINE>6747</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

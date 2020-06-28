@@ -1,0 +1,4 @@
+C:\Users\Lidia\Documents\Visual Studio 2019\Projects\Application1\Debug\Application1.exe
+C:\Users\Lidia\Documents\Visual Studio 2019\Projects\Application1\Debug\Application1.pdb
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Debug\Application1.exe
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Debug\Application1.pdb

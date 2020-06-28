@@ -1,0 +1,40 @@
+﻿  Debug.cpp
+  InputHandler.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": ponowna definicja makra
+C:\Users\PTK\Documents\Visual Studio 2019\Libraries\OpenGL\include\GL\glfw3.h(123): message : zobacz poprzednią definicję „APIENTRY”
+  Mesh.cpp
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Mesh.cpp(26,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Mesh.cpp(39,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Model.cpp
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Model.cpp(46,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Model.cpp(51,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Model.cpp(62,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Model.cpp(90,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Model.cpp(93,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  pca.cpp
+  Shader.cpp
+  ShaderProgram.cpp
+  Something.cpp
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(286,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(345,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(372,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(382,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(387,20): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(398,29): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(398,17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(429,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(438,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Something.cpp(442,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  testingarea.cpp
+  Texture.cpp
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Texture.cpp(56,2): warning C4244: "argument": konwersja z "double" do "GLint", możliwa utrata danych
+  VertexArrayObject.cpp
+C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\VertexArrayObject.cpp(26,33): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+  Window.cpp
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Debug\Application1.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+LINK : warning LNK4098: domyślna biblioteka „LIBCMT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+LINK : warning LNK4098: domyślna biblioteka „MSVCRT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+glew32s.lib(glew.obj) : warning LNK4099: nie znaleziono pliku PDB „vc120.pdb” z elementem „glew32s.lib(glew.obj)” lub w pozycji „C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Debug\vc120.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  Application1.vcxproj -> C:\Users\PTK\Documents\Visual Studio 2019\Projects\Application1\Debug\Application1.exe
