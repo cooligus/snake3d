@@ -1,8 +1,0 @@
-﻿LINK : warning LNK4098: domyślna biblioteka „LIBCMT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
-  Trwa generowanie kodu
-  0 of 709 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Zakończono generowanie kodu
-glew32s.lib(glew.obj) : warning LNK4099: nie znaleziono pliku PDB „vc120.pdb” z elementem „glew32s.lib(glew.obj)” lub w pozycji „C:\Users\Lidia\Documents\Visual Studio 2019\Projects\Application1\Release\vc120.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
-  Application1.vcxproj -> C:\Users\Lidia\Documents\Visual Studio 2019\Projects\Application1\Release\Application1.exe

@@ -1,1 +1,1 @@
-To jest super nowy projekt fascynujący i bardzo oryginlany
+It is super new project and really original.
