@@ -14,3 +14,5 @@ bool glLogCall(int line, const char* function, const char* file)
     }
     return true;
 }
+
+asddfklasdlkfj
