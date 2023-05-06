@@ -1,2 +1,0 @@
-C:/Users/PTK/Documents/Visual Studio 2019/Projects/Snake3D/Snake3D/OpenGL/include/GLM/out/build/x64-Debug (domyślnie)/CMakeFiles/edit_cache.dir
-C:/Users/PTK/Documents/Visual Studio 2019/Projects/Snake3D/Snake3D/OpenGL/include/GLM/out/build/x64-Debug (domyślnie)/CMakeFiles/rebuild_cache.dir
