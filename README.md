@@ -22,4 +22,4 @@ Far far away in another galaxy I have seen that someone have created something l
 4. Now you should see couple of errors that CMake have not found some libraries (I have not compiled it successfully so good luck). My pro tip for you is: just install Arch btw (I don't have one (Hence the compilation problem)).
 
 ## License
-[MIT](LICENSE.md)
+It's licensed under [MIT License](LICENSE.md).
