@@ -1,5 +1,5 @@
 # Snake3D
-It's funny game that will eat your RAM.
+It's funny game that will eat all your RAM.
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
