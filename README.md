@@ -1,14 +1,6 @@
 # Snake3D
 It's funny game that will eat all your RAM.
 
-## Table of contents
-- [Table of contents](#table-of-contents)
-- [General info](#general-info)
-- [Install](#install)
-- [Screenshots](#screenshots)
-- [Libs](#libs)
-- [License](#license)
-
 ## General info
 Far far away in another galaxy I have seen that someone have created something like this. I wanted too. Why not?
 
