@@ -11,7 +11,13 @@ Far far away in another galaxy I have seen that someone have created something l
 `cd Snake3D`
 3. Run cmake
 `cmake -S . -B build`
-4. Now you should see couple of errors that CMake have not found some libraries (I have not compiled it successfully so good luck). My pro tip for you is: just install Arch btw (I don't have one (Hence the compilation problem (I tried it lately and it's false (I hate you glew)))).
+4. Now delete your build directory
+5. Get open source license for CLion and download this IDE
+6. Install [vcpkg](https://vcpkg.io/en/) and install these libraries:
+   - [GLEW](https://glew.sourceforge.net/install.html)
+   - [GLFW](https://www.glfw.org/docs/3.3/build_guide.html)
+   - [GLM](https://github.com/g-truc/glm)
+7. Hit this funny hammer in CLion or something
 
 ## License
 It's licensed under [MIT License](LICENSE.md).

@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <GL/glew.h>
-#include <GL/glfw3.h>
+#include <GLFW/glfw3.h>
 #include <GLM/glm.hpp>
 #include "VertexArrayObject.h"
 
