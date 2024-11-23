@@ -27,7 +27,7 @@ set(SOURCE_FILES
 
 ## Find dependencies
 find_package(glfw3 REQUIRED)
-find_package(GLEW STATIC REQUIRED)
+find_package(GLEW REQUIRED)
 find_package(glm REQUIRED)
 #find_package(freetype REQUIRED)
 #find_package(imgui REQUIRED)
@@ -39,6 +39,7 @@ target_link_libraries(
         ${PROJECT_NAME}
         PRIVATE
         #freetype
+        GL
         glfw
         GLEW::GLEW
         glm::glm

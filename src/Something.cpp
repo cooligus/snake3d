@@ -1,9 +1,9 @@
-#include "something.h"
+#include "Something.h"
 #include "pca.h"
 #include <iostream>
 #include <math.h>
 #include <time.h>
-#include <GLM/gtc/matrix_transform.hpp>
+#include <glm/gtc/matrix_transform.hpp>
 
 
 //SnakeSegment

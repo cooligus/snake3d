@@ -1,6 +1,6 @@
 #include "ShaderProgram.h"
 #include <iostream>
-#include <GLM/gtc/type_ptr.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 ShaderProgram* ShaderProgram::current_shader = nullptr;
 

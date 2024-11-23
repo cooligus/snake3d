@@ -4,6 +4,8 @@ It's funny game that will eat all your RAM.
 ## General info
 Far far away in another galaxy I have seen that someone have created something like this. I wanted too. Why not?
 
+![video](./docs/presentation.gif)
+
 ## Install
 1. Clone the repository
 `git clone https://github.com/cooligus/Snake3D.git`
@@ -16,8 +18,9 @@ Far far away in another galaxy I have seen that someone have created something l
 6. Install [vcpkg](https://vcpkg.io/en/) and install these libraries:
    - [GLEW](https://glew.sourceforge.net/install.html)
    - [GLFW](https://www.glfw.org/docs/3.3/build_guide.html)
-   - [GLM](https://github.com/g-truc/glm)
+   - [glm](https://github.com/g-truc/glm)
 7. Hit this funny hammer in CLion or something
+8. Visit [this](./docs/real-guide.md) for hidden tutorial
 
 ## License
 It's licensed under [MIT License](LICENSE.md).
